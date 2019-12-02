@@ -1,6 +1,6 @@
 library(data.table)
 
-thalamus = read.table("th-output-2.txt")
+thalamus = read.table("th-output-3.txt")
 
 names(thalamus) = c("Time","Choice","Value")
 
